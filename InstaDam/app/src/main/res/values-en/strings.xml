@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cambiosAplicados">Applied Changes</string>
+    <string name="errorGeneral">An error has occurred</string>
+    <string name="noDefinido">Not defined</string>
+    <string name="seguidos">Followed</string>
+    <string name="seguidores">Followers</string>
+    <string name="publicaciones">Publications</string>
+    <string name="cerrarSesion">Log Out</string>
+    <string name="editarDatos">Edit data</string>
+    <string name="foto">Photo</string>
+    <string name="iniciarSesion">Login</string>
+    <string name="password">Password</string>
+    <string name="registro">Register</string>
+    <string name="datosGenerales">General information</string>
+    <string name="datosImportantes">Important Facts</string>
+    <string name="genero">Gender</string>
+    <string name="nombreUsuario">UserName</string>
+    <string name="presentacionDescripcion">Presentation / Description</string>
+    <string name="confirmar">Confirm</string>
+    <string-array name="genero">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_buscar">Search</string>
+    <string name="navigation_publicar">Publish</string>
+    <string name="navigation_perfil">Profile</string>
+    <string name="registrate">Welcome to InstaDam</string>
+    <string name="repetircontrasena">Repeat Password</string>
+    <string name="userName">What do you want to call yourself?</string>
+    <string name="seguir">Follow</string>
+    <string name="siguiendo">Following</string>
+    <string name="nombre">Name</string>
+    <string name="seguisteA">You followed</string>
+    <string name="mostrarUsuarios">Showing all users</string>
+    <string name="errorCamposVacios">Fill in all fields</string>
+    <string name="errorPassword">Password is incorrect</string>
+    <string name="exitoRegistro">Successfully Registered</string>
+    <string name="errorUsuarioExiste">The user already exists</string>
+    <string name="errorUsuarioInexiste">The user does not exist</string>
+    <string name="bienvenida">Welcome</string>
+</resources>

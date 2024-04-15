@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Borde -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#000000" /> <!-- Color del borde -->
+            <corners android:radius="16dp" /> <!-- Radio de las esquinas -->
+        </shape>
+    </item>
+
+    <!-- Fondo con esquinas redondeadas -->
+    <item android:top="2dp" android:left="2dp" android:right="2dp" android:bottom="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/recyclerWhiteBackground" /> <!-- Color de fondo -->
+            <corners android:radius="14dp" /> <!-- Radio de las esquinas - ligeramente menor para mostrar el borde -->
+        </shape>
+    </item>
+
+</layer-list>

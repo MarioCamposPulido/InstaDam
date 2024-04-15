@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name" translatable="false">InstaDam</string>
+
+    <!-- Bottom navigation View -->
+    <string name="navigation_home">Home</string>
+    <string name="navigation_buscar">Buscar</string>
+    <string name="navigation_publicar">Publicar</string>
+    <string name="navigation_perfil">Perfil</string>
+
+    <!-- Editar perfil -->
+    <string name="datosGenerales">"Datos Generales "</string>
+    <string name="datosImportantes">"Datos Importantes "</string>
+    <string name="genero">Genero</string>
+    <string name="nombreUsuario">Nombre de usuario</string>
+    <string name="presentacionDescripcion">Presentación / Descripción</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cambiosAplicados">"Cambios Aplicados "</string>
+    <string name="errorGeneral">"Ha ocurrido un error "</string>
+    <string-array name="genero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="noDefinido">"No Definido "</string>
+
+
+    <!-- Perfil -->
+    <string name="seguidos">Seguidos</string>
+    <string name="seguidores">Seguidores</string>
+    <string name="publicaciones">Publicaciones</string>
+    <string name="cerrarSesion">"Cerrar Sesion "</string>
+    <string name="editarDatos">"Editar Datos "</string>
+    <string name="foto">"Foto "</string>
+
+    <!-- Login -->
+    <string name="iniciarSesion">"Iniciar Sesión "</string>
+    <string name="email" translatable="false">"Email "</string>
+    <string name="password">"Contraseña "</string>
+    <string name="registro">"Registrarse "</string>
+
+    <!-- Registro -->
+    <string name="registrate">Bienvenido a InstaDam</string>
+    <string name="repetircontrasena">Repetir Contraseña</string>
+    <string name="userName">¿Cómo quieres llamarte?</string>
+
+    <!-- Home -->
+    <string name="bienvenida">Bienvenido</string>
+
+    <!-- RecyclerBuscar -->
+    <string name="seguir">"Seguir "</string>
+    <string name="siguiendo">"Siguiendo "</string>
+    <string name="nombre">"Nombre "</string>
+    <string name="seguisteA">"Seguiste a "</string>
+    <string name="mostrarUsuarios">"Mostrando todos los usuarios "</string>
+
+    <!-- Toast -->
+    <string name="errorCamposVacios">Rellena todos los campos</string>
+    <string name="errorPassword">"La contraseña no es correcta "</string>
+    <string name="exitoRegistro">Registrado con Éxito</string>
+    <string name="errorUsuarioExiste">El usuario ya existe</string>
+    <string name="errorUsuarioInexiste">El usuario no existe</string>
+
+</resources>
