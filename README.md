@@ -1,2 +1,2 @@
 # InstaDam
-- Aplicación parecida a Instagram
+Aplicación parecida a Instagram
